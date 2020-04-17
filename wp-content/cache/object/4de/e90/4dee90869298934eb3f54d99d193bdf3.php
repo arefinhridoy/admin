@@ -1,0 +1,1 @@
+€˜^<?php exit; ?>a:1:{s:7:"content";s:242:"a:3:{s:21:"wp-reset/wp-reset.php";a:2:{i:0;s:8:"WP_Reset";i:1;s:9:"uninstall";}s:23:"elementor/elementor.php";a:2:{i:0;s:21:"Elementor\Maintenance";i:1;s:9:"uninstall";}s:27:"autoptimize/autoptimize.php";s:29:"autoptimizeMain::on_uninstall";}";}
